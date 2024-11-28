@@ -30,7 +30,9 @@ button {
   border: none;
   padding: 10px 20px;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 10px;
+   font-size: 14px;
+  padding: 8px 16px;
 }
 
 button:hover {
@@ -64,4 +66,5 @@ footer {
     height: 400px;
     width: 600px;;
 }
+
 
